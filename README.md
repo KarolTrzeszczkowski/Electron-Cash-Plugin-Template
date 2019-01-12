@@ -1,10 +1,10 @@
 # Electron Cash Plugin Template
 
 This project is a template that may serve as a foundation for new plugins for Electron Cash BCH wallet. 
-It doex exactly nothing, but registers itself in Electron Cash and unregisters. You can fill it with any functionality you like
+It does exactly nothing, but registers itself in Electron Cash and unregisters. You can fill it with any functionality you like
 and add it to your wallet.
 
-This template is basically [EC Sheduled Payment Plugin](https://github.com/rt121212121/electron_cash_scheduled_payments_plugin) 
+This template is basically [EC Scheduled Payment Plugin](https://github.com/rt121212121/electron_cash_scheduled_payments_plugin) 
 by Roger Taylor, stripped from everything that makes any sense. 
 
 ## Renaming a plugin
@@ -27,5 +27,5 @@ You can do it "by hand" as well, just enter every file and change the name every
 ## Packing the plugin
 To pack your plugin execute:
 ```zip -r my-plugin-name manifest.json my-plugin-name/```
-Or simply select ```manifest.json``` and ```my-plugin-name/``` file, right-click and create a zip achive. 
+Or simply select ```manifest.json``` and ```my-plugin-name/``` file, right-click and create a zip archive. 
 
