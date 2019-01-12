@@ -18,10 +18,10 @@ class Plugin(BasePlugin):
         self.wallet_payment_lists = {}
 
     def fullname(self):
-        return 'template'
+        return 'Template'
 
     def description(self):
-        return _("Plugin template")
+        return _("Plugin Template")
 
     def is_available(self):
         if self.is_version_compatible is None:
