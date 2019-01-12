@@ -2,7 +2,7 @@
     "display_name": "Template",
     "version": "1.0",
     "description": "Plugin Template",
-    "project_url": "https://github.com/bla",
+    "project_url": "https://github.com/KarolTrzeszczkowski/Electron-Cash-Plugin-Template/",
     "minimum_ec_version": "3.2",
     "package_name": "template",
     "available_for": [
