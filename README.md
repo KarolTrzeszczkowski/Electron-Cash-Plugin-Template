@@ -10,7 +10,7 @@ by Roger Taylor, stripped from everything that makes any sense.
 ## Renaming a plugin
 Enter the directory where you unpacked the plugin and execute commands:
 
-```cp -r template/ my-plugin-name/; cd my-plugin-name```
+```cp -r Electron-Cash-Plugin-Template-master/ my-plugin-name/; cd my-plugin-name```
 
 ```sed -i s/template/my-plugin-name/g manifest.json```
 
