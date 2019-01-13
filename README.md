@@ -7,7 +7,7 @@ and add it to your wallet.
 This template is basically [EC Scheduled Payment Plugin](https://github.com/rt121212121/electron_cash_scheduled_payments_plugin) 
 by Roger Taylor, stripped from everything that makes any sense. 
 
-## Renaming a plugin
+## Renaming the plugin
 Enter the directory where you unpacked the plugin and execute commands:
 
 ```cp -r Electron-Cash-Plugin-Template-master/ my-plugin-name/; cd my-plugin-name```
