@@ -32,3 +32,4 @@ Or simply select ```manifest.json``` and ```my-plugin-name/``` file, right-click
 ## Donate
 
 ![donate](/donate.png)
+bitcoincash:qq93dq0j3uez8m995lrkx4a6n48j2fckfuwdaqeej2
