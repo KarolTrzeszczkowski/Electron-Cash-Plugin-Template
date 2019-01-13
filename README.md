@@ -29,3 +29,6 @@ To pack your plugin execute:
 ```zip -r my-plugin-name manifest.json my-plugin-name/```
 Or simply select ```manifest.json``` and ```my-plugin-name/``` file, right-click and create a zip archive. 
 
+## Donate
+
+![donate](/donate.png)
